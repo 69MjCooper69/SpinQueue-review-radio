@@ -1,0 +1,10 @@
+{
+  "name": "SpinQueue Review Radio",
+  "short_name": "SpinQueue Radio",
+  "description": "Listen to SpinQueue Radio queue leftovers and jot down quick review notes.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0f16",
+  "theme_color": "#38bdf8",
+  "icons": []
+}
